@@ -1,0 +1,28 @@
+
+# Python virtual environments
+.venv/
+.venv313/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local datasets
+data/raw/*
+!data/raw/README.md
+
+# Local processed data
+data/processed/*
+!data/processed/README.md
+
+# Saved model files
+models/*.joblib
+
+# Local environment files
+.env
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
