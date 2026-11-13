@@ -1,0 +1,19 @@
+Project Dataset Information
+
+Dataset Name: DataCo SMART Supply Chain Dataset
+
+Source Platform: Mendeley Data
+
+Dataset URL: https://data.mendeley.com/datasets/8gx2fvg2k6/5
+
+Original Format: CSV
+
+Original Dataset Records: Approximately 180,519
+
+Original Columns: 53
+
+Target Variable: Days for shipping (real)
+
+Purpose: Historical logistics analysis, shipping duration prediction, and performance evaluation.
+
+Note: The original dataset is not included in this repository. It must be downloaded separately from the source.
