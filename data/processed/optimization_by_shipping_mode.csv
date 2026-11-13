@@ -1,0 +1,5 @@
+Shipping Mode,Orders,Average_Actual_Days,Average_Scheduled_Days,Average_Delay,Average_Model_Error
+Second Class,7026,3.973,2.0,1.973,1.208
+First Class,5531,2.0,1.0,1.0,0.048
+Same Day,1961,0.482,0.0,0.482,0.479
+Standard Class,21586,4.001,4.0,0.001,1.21

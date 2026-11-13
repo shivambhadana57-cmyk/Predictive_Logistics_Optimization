@@ -1,0 +1,24 @@
+Order Region,Orders,Average_Actual_Days,Average_Scheduled_Days,Average_Delay
+Eastern Europe,800,3.586,2.942,0.644
+South Asia,1556,3.539,2.903,0.636
+Eastern Asia,1413,3.614,3.001,0.613
+South of  USA ,815,3.663,3.053,0.61
+Southern Africa,213,3.376,2.77,0.606
+Western Europe,5493,3.513,2.91,0.603
+Oceania,2006,3.493,2.899,0.594
+Caribbean,1627,3.529,2.936,0.593
+US Center ,1202,3.495,2.908,0.587
+West Asia,1177,3.476,2.901,0.575
+South America,3005,3.502,2.936,0.566
+East of USA,1385,3.464,2.906,0.558
+Central America,5614,3.486,2.937,0.549
+North Africa,641,3.42,2.886,0.534
+Central Asia,108,3.278,2.75,0.528
+Southern Europe,1886,3.44,2.915,0.525
+Central Africa,360,3.456,2.936,0.519
+West of USA ,1658,3.498,2.98,0.517
+East Africa,374,3.441,2.933,0.508
+Northern Europe,2036,3.452,2.949,0.503
+Southeast Asia,1833,3.484,2.981,0.502
+West Africa,712,3.455,2.985,0.471
+Canada,190,3.342,3.053,0.289
